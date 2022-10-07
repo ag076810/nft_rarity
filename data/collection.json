@@ -1,61 +1,50 @@
 [
     {
-        "id": 0,
-        "name": "One Day I'll Be A Punk #0",
-        "description": "[OneDayPunk #0](https://punkscape.xyz/onedaypunks/0), the shadow of [CryptoPunk #0](https://punkscape.xyz/cryptopunks/0) is one of 10k ***\"One Day I'll Be A Punk\"***-punks. \n\nShe sure would love to inhabit a [PunkScape](https://punkscape.xyz).",
-        "image": "ipfs://QmUZMuhGPFqAe1LiCxg9qZwNSXtLCYCi5D4aasYH5uiU9a",
-        "external_url": "https://punkscape.xyz/onedaypunks/0",
-        "animation_url": "https://punkscape.xyz/onedaypunks/0/embed",
-        "background_color": "000000",
         "attributes": [
             {
-                "trait_type": "type",
-                "value": "Human"
+                "trait_type": "family",
+                "value": "Fire"
             },
             {
-                "trait_type": "gender",
-                "value": "Female"
+                "trait_type": "background",
+                "value": "Myth"
             },
             {
-                "trait_type": "Eyes",
-                "value": "Oh So Sad Eye Shadow"
+                "trait_type": "back",
+                "value": "Drake"
             },
             {
-                "trait_type": "Ears",
-                "value": "Ghost Earring"
+                "trait_type": "chest",
+                "value": "Dull"
             },
             {
-                "trait_type": "Hair",
-                "value": "See Through Bob"
+                "trait_type": "ears",
+                "value": "Knucker"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "ETH"
+            },
+            {
+                "trait_type": "horns",
+                "value": "Bandana"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "Assassin's"
+            },
+            {
+                "trait_type": "outfit",
+                "value": "Turtleneck"
+            },
+            {
+                "trait_type": "scales",
+                "value": "Knucker"
             }
-        ]
-    },
-    {
-        "id": 1,
-        "name": "One Day I'll Be A Punk #1",
-        "description": "[OneDayPunk #1](https://punkscape.xyz/onedaypunks/1), the shadow of [CryptoPunk #1](https://punkscape.xyz/cryptopunks/1) is one of 10k ***\"One Day I'll Be A Punk\"***-punks. \n\nHe sure would love to inhabit a [PunkScape](https://punkscape.xyz).",
-        "image": "ipfs://QmVEHbJPVADvdb879dL3n7e6ipXTrqFhm1uBG9J8pp9D5K",
-        "external_url": "https://punkscape.xyz/onedaypunks/1",
-        "animation_url": "https://punkscape.xyz/onedaypunks/1/embed",
-        "background_color": "000000",
-        "attributes": [
-            {
-                "trait_type": "type",
-                "value": "Human"
-            },
-            {
-                "trait_type": "gender",
-                "value": "Male"
-            },
-            {
-                "trait_type": "Emotion",
-                "value": "Smile"
-            },
-            {
-                "trait_type": "Hair",
-                "value": "Mohawk"
-            }
-        ]
+        ],
+        "name": "Fire Dragonz #1",
+        "description": "Fire Dragonz #1",
+        "image": "https://cof.mypinata.cloud/ipfs/QmeUYbtjWb84Y7bihdpLknj1ZPn2hFsdKu5riRxkTfBKkF/1.png",
+        "token_id": "1"
     }
-
 ]
