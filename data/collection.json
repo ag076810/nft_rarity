@@ -44,7 +44,7 @@
         ],
         "name": "Fire Dragonz #1",
         "description": "Fire Dragonz #1",
-        "image": "https://cof.mypinata.cloud/ipfs/QmeUYbtjWb84Y7bihdpLknj1ZPn2hFsdKu5riRxkTfBKkF/1.png",
+        "image": "ipfs/QmeUYbtjWb84Y7bihdpLknj1ZPn2hFsdKu5riRxkTfBKkF/1.png",
         "id": "1"
     },
     {
@@ -92,9 +92,9 @@
         ],
         "name": "Earth Dragonz #2",
         "description": "Earth Dragonz #2",
-        "image": "https://cof.mypinata.cloud/ipfs/QmeUYbtjWb84Y7bihdpLknj1ZPn2hFsdKu5riRxkTfBKkF/2.png",
+        "image": "ipfs/QmeUYbtjWb84Y7bihdpLknj1ZPn2hFsdKu5riRxkTfBKkF/2.png",
         "id": "2"
-    },
+    }
 
 
 ]
