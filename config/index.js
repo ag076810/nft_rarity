@@ -1,7 +1,7 @@
 export const config = {
   env: "prod",
   LOCAL_API_URL: "localhost:3000",
-  API_URL: "odp-rarity.vercel.app",
+  API_URL: "nft-rarity-xi.vercel.app",
   COLLECTION_NAME: "LuckEggs",
   COLLECTION_TITLE: "LuckEggs",
   COLLECTION_DESCRIPTION: '2000 LuckEggs on ETHW.',
