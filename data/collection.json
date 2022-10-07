@@ -46,5 +46,53 @@
         "description": "Fire Dragonz #1",
         "image": "https://cof.mypinata.cloud/ipfs/QmeUYbtjWb84Y7bihdpLknj1ZPn2hFsdKu5riRxkTfBKkF/1.png",
         "token_id": "1"
+    },
+    {
+        "attributes": [
+            {
+                "trait_type": "family",
+                "value": "Earth"
+            },
+            {
+                "trait_type": "background",
+                "value": "Portal"
+            },
+            {
+                "trait_type": "back",
+                "value": "Dragonling"
+            },
+            {
+                "trait_type": "chest",
+                "value": "Dull"
+            },
+            {
+                "trait_type": "ears",
+                "value": "Screamer"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "Happy Day"
+            },
+            {
+                "trait_type": "horns",
+                "value": "Wavy"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "Fork Tongue"
+            },
+            {
+                "trait_type": "outfit",
+                "value": "MLB"
+            },
+            {
+                "trait_type": "scales",
+                "value": "Zombie"
+            }
+        ],
+        "name": "Earth Dragonz #2",
+        "description": "Earth Dragonz #2",
+        "image": "https://cof.mypinata.cloud/ipfs/QmeUYbtjWb84Y7bihdpLknj1ZPn2hFsdKu5riRxkTfBKkF/2.png",
+        "token_id": "2"
     }
 ]
