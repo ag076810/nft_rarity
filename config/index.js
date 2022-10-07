@@ -9,7 +9,7 @@ export const config = {
   CONTRACT: {
     // if you're not sure, set CONTRACT: {}, will remove opensea link
     CHAIN: "ethereumpow", //possible values of ethereum, matic (polygin), klatyn, solana
-    ADDRESS: "0x0b54d5619e32e33d6a42e918c7fa128a020365fe, //note: for solana these values change, so currently not supported
+    ADDRESS: "0x0b54d5619e32e33d6a42e918c7fa128a020365fe", //note: for solana these values change, so currently not supported
   },
   WEIGHTS: {},
 };
