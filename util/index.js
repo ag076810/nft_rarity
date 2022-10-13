@@ -33,8 +33,7 @@ export const formatIpfsUrl = (image_url) => {
         : `${basePath}${image_url}`
     );
     if (img_url.protocol.includes("ipfs")) {
-      //img_url = `https://ipfs.io/ipfs/${ipfs2http(image_url)}`;
-      img_url = `./image/2.png`;
+      img_url = `https://ipfs.io/ipfs/${ipfs2http(image_url)}`;
     }
     return img_url;
   }
