@@ -78,7 +78,7 @@ Home.getInitialProps = async ({ query }) => {
   return {
     title: config.COLLECTION_TITLE,
     description: config.COLLECTION_DESCRIPTION,
-    img: config.COLLECTION_IMG_LINK,
+    img: ./image/2.png,
     nfts,
     pages,
     filters,
