@@ -5,7 +5,7 @@ export const config = {
   COLLECTION_NAME: "LuckyEgg",
   COLLECTION_TITLE: "LuckyEgg",
   COLLECTION_DESCRIPTION: '2000 LuckyEggs on ETHW.',
-  COLLECTION_IMG_LINK: "https://cof.mypinata.cloud/ipfs/QmeUYbtjWb84Y7bihdpLknj1ZPn2hFsdKu5riRxkTfBKkF/3.png",
+  COLLECTION_IMG_LINK: "https://ipfs.io/ipfs/QmeUYbtjWb84Y7bihdpLknj1ZPn2hFsdKu5riRxkTfBKkF/.png",
   CONTRACT: {},
   WEIGHTS: {},
 };
